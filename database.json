@@ -1,0 +1,76 @@
+{
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 50000,
+   "tax": 52632,
+   "emails": [
+    "https://discord.com/billing/promotions/fDhZHwVKtU2ma84ktuunVSAA",
+    "https://discord.com/billing/promotions/fMVMCDPjU9aRgZ5HFBxnvw8q",
+    "https://discord.com/billing/promotions/fMVMCDPjU9aRgZ5HFBxnvw8q",
+    "https://discord.com/billing/promotions/frjmXVFsXcanjEYZFP46Q4HD",
+    " https://discord.com/billing/promotions/fGN3eXhxmRheXVGeHbXfSWDt"
+   ]
+  },
+  {
+   "name": "nord",
+   "price": 5000,
+   "tax": 5264,
+   "emails": [
+    "info@stijn.ca:Fug@zi221984 ",
+    "anthony54321@live.com:assmonkey1",
+    "itman001@hotmail.com:hellothere1"
+   ]
+  },
+  {
+   "name": "crunchyroll",
+   "price": 4000,
+   "tax": 4211,
+   "emails": [
+    "Dtosh93@hotmail.com:Simba1993 ",
+    "theo5959210@gmail.com:Marcq5959210 ",
+    "thmiuseras@gmail.com:Qazwsxe12!"
+   ]
+  },
+  {
+   "name": "steam",
+   "price": 7000,
+   "tax": 7369,
+   "emails": []
+  },
+  {
+   "name": "visa",
+   "price": 15000,
+   "tax": 15790,
+   "emails": []
+  },
+  {
+   "name": "xbox",
+   "price": 20000,
+   "tax": 21053,
+   "emails": []
+  },
+  {
+   "name": "nitro3m",
+   "price": 900000,
+   "tax": 947369,
+   "emails": []
+  },
+  {
+   "name": "spotify",
+   "price": 7000,
+   "tax": 7369,
+   "emails": []
+  }
+ ],
+ "status": "open",
+ "admins": [
+  "963878764851384351",
+  "987461126692409434",
+  "503594597772034051"
+ ],
+ "ch": "1243619873590874162",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "1243594211316600935"
+}
